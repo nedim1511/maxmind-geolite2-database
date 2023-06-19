@@ -5,7 +5,7 @@ Please use official website to download fresh GeoLite2 Database https://dev.maxm
 ## Installation
 
 ```bash
-$ php composer.phar require lysenkobv/maxmind-geolite2-database "*"
+$ php composer.phar require nedim1511/maxmind-geolite2-database "*"
 ```
 
 OR 
@@ -15,7 +15,7 @@ add to your `composer.json`
 ```json
 {
     "require": {
-        "lysenkobv/maxmind-geolite2-database": "*"
+        "nedim1511/maxmind-geolite2-database": "*"
     }
 }
 ```
